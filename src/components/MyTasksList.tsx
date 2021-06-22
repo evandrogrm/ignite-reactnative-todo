@@ -68,7 +68,8 @@ const styles = StyleSheet.create({
     marginBottom: 4,
     borderRadius: 4,
     flexDirection: 'row',
-    alignItems: 'center'
+    alignItems: 'center',
+    backgroundColor: 'rgba(25, 61, 223, 0.1)'
   },
   taskMarker: {
     height: 16,
